@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=shubham&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 🔭 **I’m currently working on:**  <br>Improving My Graph ql Skill .<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
@@ -17,6 +17,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shubhamchoudhary-2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhamchoudhary-2003&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubham&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
