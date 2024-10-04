@@ -5,7 +5,7 @@
 ## 💫 About Me
 
 - 🔭 **Currently working on:** Improving my  DSA Skill
-- 👯 **Looking to collaborate on:** Fullstack projects
+- 👯 **Looking to collaborate on:** Fullstack projects ,medusa js
 - 🌱 **Currently learning:** Advanced AWS Services and GraphQL
 - 💬 **Ask me about:** JavaScript, React, Next.js, Node.js, AWS, and general software development
 
